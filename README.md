@@ -1,16 +1,17 @@
-## Hi there 👋
+# ✨ Un Mensaje para Recordar ✨
 
-<!--
-**joel-daniel-escobar-terrazas/joel-daniel-escobar-terrazas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A veces la vida se llena de retos y días inciertos, pero siempre existe una razón para seguir adelante.
 
-Here are some ideas to get you started:
+**Recuerda:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- No importa cuán difícil se vea el camino, cada paso que das cuenta.
+- Las pequeñas acciones honestas y los buenos gestos construyen grandeza.
+- No tienes que ser perfecto, solo constante.
+
+> *Cada día trae una nueva oportunidad para aprender algo, para intentar otra vez y para avanzar un poco más.*
+
+Valora tu esfuerzo, celebra tus logros, y nunca dejes de crecer.  
+**Tienes la capacidad de alcanzar todo aquello que trabajas con dedicación.**
+
+¡Sigue adelante! 🚀
+
